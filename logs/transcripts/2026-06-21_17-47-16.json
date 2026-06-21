@@ -1,0 +1,46 @@
+{
+  "call_id": "MZ24222be4603e9eddfe7714fe38a2778f",
+  "started_at": "2026-06-21T17:47:16.259+00:00",
+  "ended_at": "2026-06-21T17:49:10.072+00:00",
+  "events": [
+    {
+      "ts": "2026-06-21T17:47:16.259+00:00",
+      "speaker": "bot",
+      "text": "Hi! You've reached GD College in Calgary. I can answer questions about our programs, schedules, fees, and admissions. How can I help you today?"
+    },
+    {
+      "ts": "2026-06-21T17:47:57.298+00:00",
+      "speaker": "user",
+      "text": "Where is your college located?"
+    },
+    {
+      "ts": "2026-06-21T17:48:00.659+00:00",
+      "speaker": "bot",
+      "text": "Our college is located in Calgary, Alberta, Canada, at #108, 1935- 27 ave NE, Calgary, AB T2E 7E4."
+    },
+    {
+      "ts": "2026-06-21T17:48:04.612+00:00",
+      "event": "timing",
+      "user_final_to_llm_first_token_ms": 3297,
+      "llm_first_token_to_tts_first_audio_ms": 4016,
+      "user_final_to_tts_first_audio_ms": 7313
+    },
+    {
+      "ts": "2026-06-21T17:48:36.850+00:00",
+      "speaker": "user",
+      "text": "Okay. That's all. Thank you."
+    },
+    {
+      "ts": "2026-06-21T17:48:40.756+00:00",
+      "speaker": "bot",
+      "text": "You're welcome, have a great day."
+    },
+    {
+      "ts": "2026-06-21T17:48:41.120+00:00",
+      "event": "timing",
+      "user_final_to_llm_first_token_ms": 266,
+      "llm_first_token_to_tts_first_audio_ms": 4000,
+      "user_final_to_tts_first_audio_ms": 4266
+    }
+  ]
+}
